@@ -93,7 +93,7 @@ def parse_article(url):
     title_tag = soup.find("h1")
     title = title_tag.get_text(strip=True) if title_tag else ""
 
-    body_tag = soup.find("div", class_="body-content")
+    body_tag = soup.find("div", class_="contentdetail")
     body = body_tag.get_text(strip=True) if body_tag else ""
 
     return {
@@ -146,7 +146,7 @@ if __name__ == "__main__":
         try:
             article = parse_article(url)
             articles.append(article)
-            print(f"✅ The lesson has been taken: {article['title'][:50]}...")
+            print(f"✅ The post has been taken: {article['title'][:50]}...")
         except Exception as e:
             logging.error(f"❌ Post error {url}: {e}")
 
