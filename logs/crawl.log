@@ -321,3 +321,110 @@ PermissionError: [Errno 13] Permission denied
 2025-07-08 22:30:47,295 - INFO - 🔗 Total: 69 posts
 2025-07-08 22:30:47,295 - INFO - 🚀 Start crawling each post
 2025-07-08 22:34:25,763 - INFO - ✅ Crawl complete, save 69 post
+2025-07-09 07:06:56,763 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-09 07:07:05,696 - INFO - 🔗 Page 1: 50 current link
+2025-07-09 07:07:05,696 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-09 07:07:14,572 - INFO - 🔗 Page 2: 59 current link
+2025-07-09 07:07:14,572 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-09 07:07:20,423 - INFO - 🔗 Page 3: 59 current link
+2025-07-09 07:07:20,423 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-09 07:07:27,999 - INFO - 🔗 Page 4: 59 current link
+2025-07-09 07:07:28,000 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-09 07:07:34,378 - INFO - 🔗 Page 5: 59 current link
+2025-07-09 07:07:34,378 - INFO - 🔗 Total: 59 posts
+2025-07-09 07:07:34,378 - INFO - 🚀 Start crawling each post
+2025-07-09 07:11:19,790 - INFO - ✅ Crawl complete, save 59 post
+2025-07-09 12:08:04,754 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-09 12:08:15,394 - INFO - 🔗 Page 1: 54 current link
+2025-07-09 12:08:15,394 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-09 12:08:24,043 - INFO - 🔗 Page 2: 67 current link
+2025-07-09 12:08:24,043 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-09 12:08:31,266 - INFO - 🔗 Page 3: 68 current link
+2025-07-09 12:08:31,267 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-09 12:08:38,307 - INFO - 🔗 Page 4: 68 current link
+2025-07-09 12:08:38,307 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-09 12:08:44,790 - INFO - 🔗 Page 5: 68 current link
+2025-07-09 12:08:44,791 - INFO - 🔗 Total: 68 posts
+2025-07-09 12:08:44,791 - INFO - 🚀 Start crawling each post
+2025-07-09 12:12:24,386 - INFO - ✅ Crawl complete, save 68 post
+2025-07-09 16:53:54,064 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-09 16:54:01,371 - INFO - 🔗 Page 1: 55 current link
+2025-07-09 16:54:01,371 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-09 16:54:10,364 - INFO - 🔗 Page 2: 69 current link
+2025-07-09 16:54:10,364 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-09 16:54:15,762 - INFO - 🔗 Page 3: 69 current link
+2025-07-09 16:54:15,762 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-09 16:54:23,658 - INFO - 🔗 Page 4: 69 current link
+2025-07-09 16:54:23,658 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-09 16:54:29,422 - INFO - 🔗 Page 5: 69 current link
+2025-07-09 16:54:29,422 - INFO - 🔗 Total: 69 posts
+2025-07-09 16:54:29,422 - INFO - 🚀 Start crawling each post
+2025-07-09 16:57:31,705 - INFO - ✅ Crawl complete, save 69 post
+2025-07-10 00:08:08,612 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-10 00:10:21,885 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-10 00:15:37,190 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-10 00:15:44,534 - INFO - 🔗 Page 1: 54 current link
+2025-07-10 00:15:44,534 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-10 00:15:52,847 - INFO - 🔗 Page 2: 69 current link
+2025-07-10 00:15:52,847 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-10 00:16:00,053 - INFO - 🔗 Page 3: 69 current link
+2025-07-10 00:16:00,053 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-10 00:16:05,922 - INFO - 🔗 Page 4: 69 current link
+2025-07-10 00:16:05,922 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-10 00:16:11,685 - INFO - 🔗 Page 5: 69 current link
+2025-07-10 00:16:11,685 - INFO - 🔗 Total: 69 posts
+2025-07-10 00:16:11,685 - INFO - 🚀 Start crawling each post
+2025-07-10 00:19:39,913 - INFO - ✅ Crawl complete, save 69 post
+2025-07-10 00:19:40,107 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "/media/bazzi/Bazzi/Crawl_News_Cafef/venv/lib/python3.12/site-packages/selenium/webdriver/common/service.py", line 177, in _terminate_process
+    self.process.terminate()
+  File "/usr/lib/python3.12/subprocess.py", line 2211, in terminate
+    self.send_signal(signal.SIGTERM)
+  File "/usr/lib/python3.12/subprocess.py", line 2203, in send_signal
+    os.kill(self.pid, sig)
+PermissionError: [Errno 13] Permission denied
+2025-07-10 00:20:01,439 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-10 00:20:08,981 - INFO - 🔗 Page 1: 54 current link
+2025-07-10 00:20:08,981 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-10 00:20:17,479 - INFO - 🔗 Page 2: 69 current link
+2025-07-10 00:20:17,479 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-10 00:21:21,641 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-10 00:21:28,978 - INFO - 🔗 Page 1: 54 current link
+2025-07-10 00:21:28,978 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-10 00:21:37,279 - INFO - 🔗 Page 2: 69 current link
+2025-07-10 00:21:37,279 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-10 00:21:42,611 - INFO - 🔗 Page 3: 69 current link
+2025-07-10 00:21:42,611 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-10 00:21:48,298 - INFO - 🔗 Page 4: 69 current link
+2025-07-10 00:21:48,298 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-10 00:21:54,097 - INFO - 🔗 Page 5: 69 current link
+2025-07-10 00:21:54,097 - INFO - 🔗 Total: 69 posts
+2025-07-10 00:21:54,098 - INFO - 🚀 Start crawling each post
+2025-07-10 00:25:17,988 - INFO - ✅ Crawl complete, save 69 post
+2025-07-11 20:41:52,944 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-11 20:42:00,228 - INFO - 🔗 Page 1: 57 current link
+2025-07-11 20:42:00,228 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-11 20:42:08,599 - INFO - 🔗 Page 2: 74 current link
+2025-07-11 20:42:08,599 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-11 20:42:13,990 - INFO - 🔗 Page 3: 74 current link
+2025-07-11 20:42:13,990 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-11 20:42:19,340 - INFO - 🔗 Page 4: 74 current link
+2025-07-11 20:42:19,340 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-11 20:42:24,745 - INFO - 🔗 Page 5: 74 current link
+2025-07-11 20:42:24,745 - INFO - 🔗 Total: 74 posts
+2025-07-11 20:42:24,745 - INFO - 🚀 Start crawling each post
+2025-07-11 20:46:14,302 - INFO - ✅ Crawl complete, save 74 post
+2025-07-11 23:07:28,590 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn
+2025-07-11 23:07:36,439 - INFO - 🔗 Page 1: 56 current link
+2025-07-11 23:07:36,439 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-2.chn
+2025-07-11 23:07:44,860 - INFO - 🔗 Page 2: 75 current link
+2025-07-11 23:07:44,860 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-3.chn
+2025-07-11 23:07:51,626 - INFO - 🔗 Page 3: 75 current link
+2025-07-11 23:07:51,626 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-4.chn
+2025-07-11 23:07:58,605 - INFO - 🔗 Page 4: 75 current link
+2025-07-11 23:07:58,605 - INFO - 🔍 Opening page: https://cafef.vn/thi-truong-chung-khoan.chn/trang-5.chn
+2025-07-11 23:08:05,048 - INFO - 🔗 Page 5: 75 current link
+2025-07-11 23:08:05,048 - INFO - 🔗 Total: 75 posts
+2025-07-11 23:08:05,048 - INFO - 🚀 Start crawling each post
+2025-07-11 23:12:12,303 - INFO - ✅ Crawl complete, save 75 post

@@ -86,6 +86,7 @@ def get_article_links():
 # Crawl the content of each article
 # =============================
 def parse_article(url):
+    #driver.set_page_load_timeout(30)
     driver.get(url)
     time.sleep(2)
     soup = BeautifulSoup(driver.page_source, "html.parser")
